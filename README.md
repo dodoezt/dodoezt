@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dodoezt
+- 👋 Greetings! my name is Alldo Firmansyah
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML CSS & Java Script
-- 😄 Pronouns: he/him
+- 🌱 I can do both frontend and backend program 
+- 😄 My pronouns are he/him
 
 <!---
 dodoezt/dodoezt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
