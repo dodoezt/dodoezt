@@ -1,6 +1,6 @@
 - 👋 Greetings! my name is Alldo Firmansyah
 - 👀 I’m interested in programming
-- 🌱 I can do both frontend and backend program 
+- 🌱 I'm a Fullstack Web Developer
 - 😄 My pronouns are he/him
 
 <!---
