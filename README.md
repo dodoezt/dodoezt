@@ -35,8 +35,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Alldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)
+![Alldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodoezt&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dodoezt&layout=compact&theme=default)
 
 ---
 
